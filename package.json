@@ -1,0 +1,26 @@
+{
+  "name": "rmp-wait-for-live",
+  "version": "1.0.0",
+  "description": "Splash screen handling for timed live event for use with  Radiant Media Player",
+  "main": "js/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiantmediaplayer/rmp-wait-for-live.git"
+  },
+  "keywords": [
+    "live",
+    "html5",
+    "video",
+    "hls",
+    "mpeg",
+    "dash",
+    "splash",
+    "screen"
+  ],
+  "author": "Radiant Media Player <support@radiantmediaplayer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radiantmediaplayer/rmp-wait-for-live/issues"
+  },
+  "homepage": "https://www.radiantmediaplayer.com/docs/latest/live-dvr-streaming.html"
+}
