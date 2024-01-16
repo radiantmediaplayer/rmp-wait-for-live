@@ -12,10 +12,9 @@
     "html5",
     "video",
     "hls",
-    "mpeg",
+    "mpeg-dash",
     "dash",
-    "splash",
-    "screen"
+    "splashscreen"
   ],
   "author": "Radiant Media Player <support@radiantmediaplayer.com>",
   "license": "MIT",
